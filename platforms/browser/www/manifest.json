@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Cordova-Project",
+  "short_name": "Cordova-Project",
+  "version": "io.cordova.cordovaproject",
+  "description": "Cordova Hybrid Application (Browser + Android + iOS + Windows)",
+  "author": "Arjun Khetia",
+  "icons": [],
+  "start_url": "index.html"
+}
